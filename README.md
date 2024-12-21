@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Demo image
 
-https://raw.githubusercontent.com/ales-dev-studio/flutter-verical-stepper/refs/heads/main/assets/images/demo.png
+![Untitled](https://raw.githubusercontent.com/ales-dev-studio/flutter-verical-stepper/refs/heads/main/assets/images/demo.png)
